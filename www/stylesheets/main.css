@@ -303,7 +303,7 @@ a:hover, a:active {
   background-position: left -145px;
 }
 #latest, #content {
-  background: #000 url(/images/bg_foot.png) repeat-x left top; 
+  background: #000 url(/images/bg_foot.png) repeat-x left top;
   padding: 30px 0;
 }
 #latest {
@@ -375,4 +375,8 @@ a:hover, a:active {
 img.left {
   margin-right: 15px;
   margin-bottom: 5px;
+}
+
+img[alt='JRuby Stickers'] {
+  width: 400px;
 }
